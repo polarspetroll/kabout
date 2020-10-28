@@ -19,7 +19,7 @@ $ gem install colorize
 
 ```
 
-$ git clone https://github.com/polarspetroll/kabout/
+$ git clone https://github.com/polarspetroll/kabout.git
 
 $ chmod +x Script.rb
 
