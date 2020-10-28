@@ -29,4 +29,4 @@ $ ./Script.rb
 #### another thing !
 a huge thanks to **Christophe Vandeplas** for creating the user agent list.
 
-Hes github : https://github.com/cvandeplas
+He's github : https://github.com/cvandeplas
