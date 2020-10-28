@@ -23,6 +23,8 @@ $ git clone https://github.com/polarspetroll/kabout.git
 
 $ chmod +x Script.rb
 
+$ ./Script.rb
+
 ```
 #### another thing !
 a huge thanks to **Christophe Vandeplas** for creating the user agent list.
