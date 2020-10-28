@@ -9,7 +9,7 @@ basically this script is not flooding but its similar to RUDY attacks.
 **colorize**(usually preinstalled with ruby)
 
 
-``bash
+``
 $ gem install colorize
 ``
 
