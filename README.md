@@ -14,3 +14,11 @@ $ gem install colorize
 **net/http**(preinstalled with ruby)
 
 ### usage 
+``
+$ git clone https://github.com/polarspetroll/kabout/
+$ chmod +x Script.rb
+``
+#### another thing !
+a huge thanks to **Christophe Vandeplas** for creating the user agent list.
+
+Hes github : https://github.com/cvandeplas
