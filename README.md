@@ -17,13 +17,13 @@ $ gem install colorize
 
 ### usage 
 
-``
+```
 
 $ git clone https://github.com/polarspetroll/kabout/
 
 $ chmod +x Script.rb
 
-``
+```
 #### another thing !
 a huge thanks to **Christophe Vandeplas** for creating the user agent list.
 
