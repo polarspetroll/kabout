@@ -17,6 +17,7 @@ $ gem install colorize
 
 ### usage 
 ``
+
 $ git clone https://github.com/polarspetroll/kabout/
 
 $ chmod +x Script.rb
