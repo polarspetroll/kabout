@@ -1,4 +1,5 @@
 # http-DoSer
+![Alt text](screenshot.png?raw=true "Optional Title")
 Http stressor  tool with user agent spoofing function.
 ### introduction
 using this script you can launch DoS attack against Http protocol. This script uses agent spoofing method wich allows the attacker to send a bunch of Http requests with different user agents.
