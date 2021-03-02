@@ -4,17 +4,17 @@ Http stressor  tool with user agent spoofing function.
 ### introduction
 using this script you can launch DoS attack against Http protocol. This script uses agent spoofing method wich allows the attacker to send a bunch of Http requests with different user agents.
 
-basically this script is not flooding but its similar to RUDY attacks.
+this is not a flooding tool but its similar to RUDY attacks.
 ### requirements 
 
-**colorize**(usually preinstalled with ruby)
+**colorize**
 
 
 ``
 $ gem install colorize
 ``
 
-**net/http**(preinstalled with ruby)
+**net/http**
 
 ### usage 
 
@@ -27,7 +27,3 @@ $ chmod +x Script.rb
 $ ./Script.rb
 
 ```
-#### another thing !
-a huge thanks to **Christophe Vandeplas** for creating the user agent list.
-
-He's github : https://github.com/cvandeplas
